@@ -1,0 +1,22 @@
+.footer-container {
+  color: #767676;
+  background-color: #F2F2F2;
+  padding-top: 10px;
+  margin: 20px 0px 0px;
+}
+
+.footer-text {
+  margin: 11px 0px;
+  font-size: 12px;
+}
+
+.footerlink a {
+  color: #0096D6;
+  cursor: pointer;
+  padding: 0px 5px 0px 8px;
+  font-size: 12px;
+}
+
+#footerPrivacyStatement {
+  border-left: 2px solid #E5E8E8;
+}
